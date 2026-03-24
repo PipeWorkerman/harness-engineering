@@ -149,6 +149,12 @@ The "Ralph Wiggum Loop" is the core implementation pattern of Harness Engineerin
 | Steer With Signals, Not Scripts | Humans Steer — add signs, not scripts |
 | Let Ralph Ralph | Agents Execute — sit on the loop, not in it |
 
+### Efficiency Paradox & Capability Evolution
+
+| Resource | Description |
+|----------|-------------|
+| [Why AI Codes Faster But Delivery Hasn't Changed](https://yousali.com/posts/20260303-ai-coding-efficiency-to-evolution/) | 16,667-word deep dive: Theory of Constraints on efficiency paradox, Spec/Rule/Skill separation, verification loops, concurrency strategies. "AI is today's NCX-10" |
+
 ### Community Resources
 
 | Resource | Description |

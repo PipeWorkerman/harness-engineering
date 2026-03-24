@@ -148,6 +148,12 @@ harness-engineering/
 | Steer With Signals, Not Scripts | 人类掌舵 — 加路标，不加脚本 |
 | Let Ralph Ralph | 智能体执行 — 坐在循环上，不坐在循环里 |
 
+### 效率悖论与能力进化
+
+| 资源 | 说明 |
+|------|------|
+| [为什么 AI 写代码更快但交付没变](https://yousali.com/posts/20260303-ai-coding-efficiency-to-evolution/) | 16667 字深度长文：约束理论拆解效率悖论，Spec/Rule/Skill 三层区分，验证闭环，并发策略。"AI 就是今天的 NCX-10" |
+
 ### 社区资源
 
 | 资源 | 说明 |
