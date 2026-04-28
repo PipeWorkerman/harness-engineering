@@ -31,6 +31,7 @@
 | [04-agent-readability.md](04-agent-readability.md) | 智能体可读性 | OpenAI + LangChain + HumanLayer + Fowler |
 | [05-throughput-changes-merge.md](05-throughput-changes-merge.md) | 吞吐量改变合并理念 | OpenAI + HumanLayer + LangChain + Fowler |
 | [06-harness-definition.md](06-harness-definition.md) | Harness 的精确定义与组件清单 | LangChain + HumanLayer + Fowler |
+| [07-spec-as-product.md](07-spec-as-product.md) | 约束即产品（Spec as Product）| OpenAI Symphony + Fowler + HumanLayer + Meta-Harness |
 
 ## 下一步
 

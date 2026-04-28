@@ -110,7 +110,7 @@ harness-engineering/
 ├── thinking/              # Phase 2：独立思考与质疑（6 篇）
 ├── practice/              # Phase 3：小项目实验（1 个 Ralph Demo）
 ├── feedback/              # Phase 4：踩坑与迭代心得（1 篇）
-├── works/                 # Phase 5：可展示的作品（11 篇翻译 + 1 篇原创）
+├── works/                 # Phase 5：可展示的作品（12 篇翻译 + 1 篇原创）
 ├── prompts/               # 验证有效的提示词积累
 └── references/            # 外部资源索引（19 篇文章深度摘要）
 ```
@@ -123,7 +123,7 @@ harness-engineering/
 - [x] **Phase 2：形成自己的观点** — 6 篇独立思考（持续中）
 - [x] **Phase 3：选一个小项目实践** — Ralph Demo 完成（321 秒，$0.31）
 - [x] **Phase 4：记录反馈迭代** — 1 篇（持续中）
-- [x] **Phase 5：输出可展示的作品** — 11 篇专业翻译 + 1 篇原创综合分析
+- [x] **Phase 5：输出可展示的作品** — 12 篇专业翻译 + 1 篇原创综合分析
 
 ## 📚 研究资料库
 
@@ -155,6 +155,7 @@ harness-engineering/
 | [Agent Evaluation Checklist](works/langchain-agent-evaluation-checklist-translation.md) | LangChain 团队 | LangChain |
 | [Agent-driven Development](works/github-agent-driven-development-translation.md) | Tyler McGoffin | GitHub |
 | [Continual Learning](works/langchain-continual-learning-translation.md) | Harrison Chase | LangChain |
+| [Codex 编排开源规范 Symphony](works/openai-codex-symphony-translation.md) | Kotliarskyi 等 | OpenAI |
 
 </details>
 
